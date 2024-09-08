@@ -66,7 +66,7 @@ Be sure to replace sk-.. with your actual OpenAI API key and /Users/myuser/proje
 Start the agent with the command:
 
 ```bash
-poetry run streamlit run agent_streamlit.py
+poetry run chainlit run agent_chainlit.py
 ```
 
 By following these steps, you will be able to start the Opensearch agent to explore and analyze data through a simple user interface that interprets natural language. Below is an example of queries
